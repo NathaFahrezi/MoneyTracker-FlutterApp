@@ -15,9 +15,6 @@ Selamat datang di **Money Tracker**, aplikasi pencatat keuangan pribadi yang dir
 - 📊 **Grafik Keuangan**  
   Visualisasi transaksi kamu dalam bentuk grafik yang memudahkan analisis pengeluaran.
 
-- 🧠 **Tips Keuangan Harian**  
-  Dapatkan insight dan tips harian untuk mengelola keuangan pribadi.
-
 - 👤 **Profil Pengguna**  
   Edit dan simpan data pribadi lengkap dengan foto profil.
 
