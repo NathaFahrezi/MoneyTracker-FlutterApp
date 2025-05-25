@@ -1,16 +1,56 @@
-# moneytracker
+# 💰 Money Tracker App
 
-A new Flutter project.
+Selamat datang di **Money Tracker**, aplikasi pencatat keuangan pribadi yang dirancang dengan tampilan elegan dan pengalaman pengguna yang simpel namun powerful. Dibuat menggunakan **Flutter**, aplikasi ini memudahkan kamu untuk mencatat pemasukan dan pengeluaran harian serta memantau kesehatan finansialmu.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Fitur Unggulan
 
-A few resources to get you started if this is your first Flutter project:
+- 📌 **Dashboard Interaktif**  
+  Lihat ringkasan pemasukan, pengeluaran, dan saldo bulanan dalam tampilan yang bersih dan informatif.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📋 **Manajemen Transaksi**  
+  Tambah, lihat, dan kategorikan transaksi harian dengan mudah.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 📊 **Grafik Keuangan**  
+  Visualisasi transaksi kamu dalam bentuk grafik yang memudahkan analisis pengeluaran.
+
+- 🧠 **Tips Keuangan Harian**  
+  Dapatkan insight dan tips harian untuk mengelola keuangan pribadi.
+
+- 👤 **Profil Pengguna**  
+  Edit dan simpan data pribadi lengkap dengan foto profil.
+
+- ⏰ **Pengingat Transaksi Berkala**  
+  Jangan lewatkan pembayaran rutin atau pemasukan tetap!
+
+---
+
+## 📱 Tampilan Aplikasi
+
+| Dashboard Elegan | Tambah Transaksi | Grafik Keuangan |
+|------------------|------------------|-----------------|
+| ![dashboard](screenshots/dashboard.png) | ![add](screenshots/add_transaction.png) | ![graph](screenshots/graph.png) |
+
+> *Note: Screenshot dapat diganti sesuai UI sebenarnya.*
+
+---
+
+## 🚀 Teknologi yang Digunakan
+
+- **Flutter 3.29.0**
+- **Dart 3.7.0**
+- **State Management:** `setState()` (versi sederhana)
+- **Package Tambahan:**
+  - `intl` untuk format tanggal & angka
+  - `shared_preferences` untuk penyimpanan lokal
+  - `charts_flutter` atau `fl_chart` (jika menggunakan grafik)
+
+---
+
+## 🛠 Cara Menjalankan
+
+### 1. Clone Repository
+```bash
+git clone https://github.com/username/money-tracker.git
+cd money-tracker
