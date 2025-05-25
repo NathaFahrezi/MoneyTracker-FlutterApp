@@ -28,11 +28,8 @@ Selamat datang di **Money Tracker**, aplikasi pencatat keuangan pribadi yang dir
 
 ## 📱 Tampilan Aplikasi
 
-| Dashboard Elegan | Tambah Transaksi | Grafik Keuangan |
-|------------------|------------------|-----------------|
-| ![dashboard](screenshots/dashboard.png) | ![add](screenshots/add_transaction.png) | ![graph](screenshots/graph.png) |
+![image](https://github.com/user-attachments/assets/3732fe77-b059-428c-b3c0-7c965f1236e1)
 
-> *Note: Screenshot dapat diganti sesuai UI sebenarnya.*
 
 ---
 
